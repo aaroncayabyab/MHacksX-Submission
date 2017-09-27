@@ -1,0 +1,12 @@
+# Ranorex Specific files
+[Rr]eports
+*.rxlog
+*.rxlog.data
+*.jpg
+*.rxuser
+*.pref
+*bin/
+*obj/
+ZangSpacesWeb_VS2010.sln
+ZangSpacesWeb.sln
+Ranorex.rxsettings
