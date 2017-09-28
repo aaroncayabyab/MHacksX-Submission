@@ -1,4 +1,4 @@
-![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/563/datas/gallery.jpg)
+#I See Them
  
 VR Game developed during MHacks X in under 36 hours.
 Fully immersive 3D VR Horror Game that exhibits what a severe case of schizophrenia may look like.
