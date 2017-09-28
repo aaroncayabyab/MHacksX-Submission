@@ -13,6 +13,8 @@ You are a patient waiting in your room for the nurse to come back with your medi
 ![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg)
 
  
-
+<p align="center">
+  <img width="460" height="300" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg">
+</p>
  
 
