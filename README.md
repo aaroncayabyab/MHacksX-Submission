@@ -14,11 +14,7 @@ You are a patient waiting in your room for the nurse to come back with your medi
  Matheesan Manokaran
  
  <p align="center">
-  <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/662/datas/gallery.jpg">
-   <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg">
+  <img border ="5" width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/662/datas/gallery.jpg">
+   <img border="5"width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg">
 </p>
-<p align="center">
-  <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg">
-</p>
- 
 
