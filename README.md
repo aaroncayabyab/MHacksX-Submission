@@ -1,5 +1,6 @@
-![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/563/datas/gallery.jpg)
- 
+ <p align="center">
+  <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/563/datas/gallery.jpg">
+</p> 
 VR Game developed during MHacks X in under 36 hours.
 Fully immersive 3D VR Horror Game that exhibits what a severe case of schizophrenia may look like.
  
@@ -9,11 +10,6 @@ You are a patient waiting in your room for the nurse to come back with your medi
  Aaron Cayabyab
  Matheesan Manokaran
  
-![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/662/datas/gallery.jpg)
-![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg)
-<p align="center">
-  <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/662/datas/gallery.jpg">
-</p>
  <p align="center">
   <img width="600" height="450" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/540/663/datas/gallery.jpg">
 </p>
